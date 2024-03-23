@@ -1,0 +1,16 @@
+URL referred to make the web and the mobile app - 
+
+
+1) https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+
+2) https://www.sourcecodester.com/javascript/16955/food-recipe-finder-using-html-css-and-javascript-source-code.html
+
+3) https://chat.openai.com
+
+4) https://www.geeksforgeeks.org/recipe-finder-using-reactjs/
+
+5) https://www.geeksforgeeks.org/css-tutorial/
+
+6) https://reactnative.dev/docs/tutorial
+
+7) https://www.w3schools.com/REACT/DEFAULT.ASP#:~:text=Create%20React%20App&text=The%20create%2Dreact%2Dapp%20tool,like%20to%20create%20your%20application.&text=create%2Dreact%2Dapp%20will%20set,to%20run%20a%20React%20application.

@@ -1,0 +1,47 @@
+
+.recipe-title {
+  cursor: zoom-out;
+  color: #332244 !important;
+  font-size: 30px;
+  font-weight: italic;
+}
+
+.navbar-default {
+  background-color: rgb(160, 44, 48);
+  columns: black;
+  border-radius: 1px !important;
+  border: black;
+}
+
+
+#logo {
+  max-height: 40px;
+  margin-right: 9px;
+
+  margin-top: -09px;
+  display: inline-block;
+
+}
+
+a {
+  font-family: verdana;
+    color: rgb(126, 52, 52) !important;
+}
+.navbar {
+  border-radius: 1px !important;
+}
+.btn-menu {
+  cursor: -moz-zoom-in;
+}
+
+
+
+.recipe-box {
+  height: 158;
+  margin-top: 16px;
+}
+.search-box {
+  border-radius: 8px;
+  border: 1px #201f1f;
+  height: 40px;
+}
